@@ -1,0 +1,2 @@
+transport:subway
+places:cn tower
